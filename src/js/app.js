@@ -18,6 +18,8 @@ App = {
 
         petsRow.append(petTemplate.html());
         //dummy new line
+        a = null;
+        a.find('.');
       }
     });
 
