@@ -17,6 +17,7 @@ App = {
         petTemplate.find('.btn-adopt').attr('data-id', data[i].id);
 
         petsRow.append(petTemplate.html());
+        //dummy new line
       }
     });
 
